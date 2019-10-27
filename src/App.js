@@ -7,8 +7,6 @@ import AddTodo from './components/AddTodo';
 import About from './components/pages/About';
 import axios from 'axios';
 
-import uuid from 'uuid';
-
 class App extends React.Component {
   constructor(props) {
     super(props);
